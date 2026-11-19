@@ -1,0 +1,50 @@
+:root {
+  /* Surface & Background Canvas */
+  --bg-canvas: #F3F5F2;
+  --bg-surface: #FFFFFF;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #F8FAF9;
+  --bg-card-active: #F0F4F2;
+
+  /* Structural Borders */
+  --border-muted: #F0F3F1;
+  --border-subtle: #E5EAE6;
+  --border-default: #E5EAE6;
+  --border-highlight: #C3DDD4;
+
+  /* Primary Brand & Clinical Accents */
+  --clinical-primary: #20332F;
+  --clinical-secondary: #718078;
+  --clinical-accent: #267C70;
+  --clinical-accent-hover: #1E665C;
+  --clinical-accent-light: #DCEBE5;
+  --clinical-accent-tint: #EEF5F2;
+
+  /* Status Tokens */
+  --status-success: #27856A;
+  --status-success-bg: #EAF3F0;
+  --status-success-border: #D2E5DE;
+
+  --status-warning: #D69A43;
+  --status-warning-bg: #FBF5EB;
+  --status-warning-border: #F3E2C6;
+
+  --status-critical: #C75B5B;
+  --status-critical-bg: #F9EFEF;
+  --status-critical-border: #F0D5D5;
+
+  --status-info: #267C70;
+  --status-info-bg: #DCEBE5;
+  --status-info-border: #C3DDD4;
+
+  /* Typography Colors */
+  --text-primary: #20332F;
+  --text-secondary: #718078;
+  --text-muted: #95A39C;
+  --text-inverse: #FFFFFF;
+
+  /* Elevation Shadows */
+  --shadow-clinical-card: 0 1px 3px 0 rgba(32, 51, 47, 0.04), 0 1px 2px -1px rgba(32, 51, 47, 0.02);
+  --shadow-clinical-elevated: 0 4px 12px -2px rgba(32, 51, 47, 0.06), 0 2px 4px -2px rgba(32, 51, 47, 0.03);
+  --shadow-clinical-dropdown: 0 10px 25px -5px rgba(32, 51, 47, 0.08), 0 8px 10px -6px rgba(32, 51, 47, 0.04);
+}
